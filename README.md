@@ -53,9 +53,3 @@ https://lab.magiconch.com/nbnhhsh/
 ## GreasyFork
 [https://greasyfork.org/zh-CN/scripts/398555](https://greasyfork.org/zh-CN/scripts/398555)
 
-
-## 打赏
-![支付宝打赏](sponsor.png)
-
-## 仓库地址
-[https://github.com/itorr/nbnhhsh](https://github.com/itorr/nbnhhsh)
